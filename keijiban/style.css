@@ -1,0 +1,88 @@
+body{
+    font-family:メイリオ;
+}
+
+header img{
+    width:300px;
+    height:70px;
+}
+
+header ul{
+background-color: black;
+height:35px;
+padding-top:10px;
+}
+
+header li{
+    display:inline;
+    color:white;
+    padding-left:20px;
+}
+
+.main-container{
+    width:98%;
+    margin:0 auto;
+}
+
+.leftA{
+    float:left;
+    width:65%;
+}
+
+.right{
+    float:right;
+    width:30%;
+}
+
+.leftB{
+    clear:both;
+    width:65%;
+    margin-bottom:10px;
+}
+
+
+.background{
+    background-color:whitesmoke;
+    border:1px solid gray;
+    padding-left:15px;
+}
+
+.leftA h2{
+    border-left:5px solid black;
+    border-bottom:3px solid black;
+    padding-left:5px;
+}
+
+.leftA h4{
+    border-left:3px solid red;
+    padding-left:5px;
+}
+
+.submit{
+    background-color:gray;
+    color:white;
+    border:solid gray;
+    border-bottom:3px solid black;
+}
+
+.right h4{
+    border-bottom:3px dotted black;
+}
+
+.right li{
+    list-style:none;
+}
+
+.leftB h4{
+    border-bottom:1px solid gray;
+}
+
+
+footer{
+    margin-top:30px;
+    height:40px;
+    padding-top:15px;
+    text-align:center;
+    background-color:black;
+    color:white;
+}
